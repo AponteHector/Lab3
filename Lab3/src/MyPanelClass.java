@@ -36,7 +36,7 @@
 	                        
 	                        // Oval
 	                        g.setColor(Color.LIGHT_GRAY);
-	                        g.fillOval(x2 , y2 , 55, 55);	                        
+	                        g.fillOval(x1 , y1 , 55, 55);	                        
 	                     
 	            }
 	}	

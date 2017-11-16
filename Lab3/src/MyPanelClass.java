@@ -35,9 +35,9 @@
 	                       // g.drawLine(x1 + 200 , y1, x2 - 200, y2);
 	                        
 	                        // Oval
-	                        g.setColor(Color.LIGHT_GRAY);
-	                        g.fillOval(x1 , y1 , 60, 55);	                        
-	                     
+	                        g.setColor(Color.ORANGE);
+	                        g.fillOval((getWidth()-55)/2,((getHeight()-55)/2),55,55);	                        
+	                      
 	            }
 	}	
 
